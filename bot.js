@@ -589,10 +589,8 @@ client.on("message", message => {
 
 **Bot ${client.user.username} Commands**
 ===================================
-:game_die: -فكك
 :game_die: -عقاب
 :game_die: -كت تويت
-:game_die: -عواصم
 :game_die: -اسئله
 :game_die: -مريم
 :game_die: -اسرع كتابة
