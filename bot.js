@@ -393,7 +393,7 @@ var fkk =[
 });
 
 client.on("message", message => {
- if (message.content === prefix + "help") {
+ if (message.content === prefix + "help-games") {
   const embed = new Discord.RichEmbed()
       .setColor("RANDOM")
       .setThumbnail(message.author.avatarURL)
